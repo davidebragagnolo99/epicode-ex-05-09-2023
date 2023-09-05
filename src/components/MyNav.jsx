@@ -5,7 +5,7 @@ function MyNav() {
     <Navbar expand="lg" className="bg-dark text-white">
       <Container fluid="xl">
         <Navbar.Brand className="text-white" href="#home">
-          SuperEcoShop
+          EpiBooks!
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

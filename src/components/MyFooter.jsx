@@ -4,7 +4,7 @@ const MyFooter = () => {
       <p>
         <a href="#home">Torna su</a>
       </p>
-      <small>Epibooks created by Davide, all right reserved</small>
+      <small>Epibooks! created by Davide, all right reserved</small>
     </div>
   );
 };
